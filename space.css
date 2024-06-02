@@ -1,0 +1,60 @@
+body{
+
+    color:#cbc0d3;
+   
+    margin:0px;
+    text-align:center;
+    font-family: "Orbitron", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 800;
+      font-style: normal;
+      
+} 
+
+.hero{
+    background-image: url("/myphp/giphy/galaxy.webp");
+    background-size:cover;
+    padding-bottom: 400px;
+    margin:0px;
+}
+
+.underline{
+
+border-bottom: 3px solid white;
+border-radius: 2px;
+
+}
+      
+#spacex-logo{
+
+    width:100px;
+    height:20px;
+    
+}
+
+
+
+.main{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.btn{
+ padding: 6px 11px;
+ font-weight:bolder;
+ background:white;
+ border:none;
+ font-family:inherit;
+;
+
+
+}
+h1{
+    text-shadow: 0px 0px 5px aqua;
+   
+}
+
+h2{
+    color:#233d4d;
+     
+}
